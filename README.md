@@ -1,4 +1,4 @@
-# SoftComputing
+# Soft Computing
 
 1. Counting Dittos
 - Implemented a Ditto Pokémon counting system utilizing computer vision techniques, including adaptive thresholding, morphological operations, and color segmentation in the HSV color space. The algorithm accurately identifies and counts Ditto Pokémon instances in images, comparing the results with expected counts and calculating the Mean Absolute Error (MAE) for evaluation.
